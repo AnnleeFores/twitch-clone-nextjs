@@ -1,1 +1,1 @@
-# nextjs-porfolio
+# twitch-clone-nextjs
